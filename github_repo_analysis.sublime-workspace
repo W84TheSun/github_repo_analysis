@@ -1,0 +1,731 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"send",
+				"sender_id"
+			],
+			[
+				"reque",
+				"requests"
+			],
+			[
+				"messa",
+				"messaging_event"
+			],
+			[
+				"sen",
+				"sender_id"
+			],
+			[
+				"js",
+				"jsonify"
+			],
+			[
+				"dict",
+				"dict_file"
+			],
+			[
+				"word",
+				"word_dictionary〔variable〕"
+			],
+			[
+				"dic",
+				"dict_file"
+			],
+			[
+				"diction",
+				"dictionary_path"
+			],
+			[
+				"A",
+				"ArgumentParser〔class〕"
+			],
+			[
+				"pro",
+				"prompts"
+			],
+			[
+				"words",
+				"words_dictionary〔variable〕"
+			],
+			[
+				"input",
+				"input_list〔variable〕"
+			],
+			[
+				"inpu",
+				"input_list"
+			],
+			[
+				"lines",
+				"lines_range"
+			],
+			[
+				"matc",
+				"matched〔variable〕"
+			],
+			[
+				"mat",
+				"matched"
+			],
+			[
+				"ope",
+				"operator〔module〕"
+			],
+			[
+				"wo",
+				"words_founded〔variable〕"
+			],
+			[
+				"lo",
+				"logging〔module〕"
+			],
+			[
+				"Runt",
+				"RuntimeWarning〔class〕"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"tim",
+				"time_delta"
+			],
+			[
+				"time",
+				"time_list〔variable〕"
+			],
+			[
+				"pack",
+				"packet〔variable〕"
+			],
+			[
+				"post",
+				"pos_list"
+			],
+			[
+				"mc",
+				"mc-embedded-subscribe"
+			],
+			[
+				"sub",
+				"subscribe_button"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bi",
+				"bitarray"
+			],
+			[
+				"html",
+				"htmlspecialchars〔function〕"
+			],
+			[
+				"NMEA",
+				"NMEAGPS"
+			],
+			[
+				"write",
+				"write_timeout〔function〕"
+			],
+			[
+				"re",
+				"requests〔module〕"
+			],
+			[
+				"split",
+				"split_start〔variable〕"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"mark",
+				"marking〔argument〕"
+			],
+			[
+				"mar",
+				"marking〔argument〕"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "sspy",
+		"selected_items":
+		[
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"pep",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtrml",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssy",
+				"Set Syntax: YAML"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"wrpa",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wrp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"SSPY",
+				"Set Syntax: Python"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"atg",
+				"Set Syntax: ATG C#"
+			],
+			[
+				"ssc#",
+				"Set Syntax: C#"
+			],
+			[
+				"ss",
+				"Set Syntax: C++"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import requests",
+			"cd",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/w84thesun/Documents/GitHub/github_repo_analysis"
+	],
+	"file_history":
+	[
+		"/C/Users/w84thesun/Documents/GitHub/github_repo_analysis/main.py",
+		"/C/Users/w84thesun/Documents/work/parkweather/messenger_requests.py",
+		"/C/Users/w84thesun/Documents/work/parkweather/app.py",
+		"/C/Users/w84thesun/Documents/work/parkweather/requirements.txt",
+		"/C/Users/w84thesun/Desktop/test.json",
+		"/F/Virtual machines/Linux Mint/Linux Mint.vbox",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/net_task/client.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/console_task/console.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/console_task/core/common_functions.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/net_task/core/common_functions.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/net_task/server.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/net_task/__init__.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/console_task/__init__.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/__init__.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task.wiki/Home.md",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task.wiki/Task-overview.md",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_task_wiki/Task-overview.md",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/console_task/core/__init__.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/core/errors.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/core/__init__.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/net_task/dict.txt",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/tests/console_test.py",
+		"/C/Users/w84thesun/Documents/GitHub/user_input_prompt_task/console.py",
+		"/C/Users/w84thesun/Desktop/work_doc.txt",
+		"/C/Users/w84thesun/Documents/GitHub/classification-service/README.md",
+		"/C/Users/w84thesun/Documents/GitHub/classification-service/app.json",
+		"/C/Users/w84thesun/Documents/GitHub/classification-service/Pipfile",
+		"/C/Users/w84thesun/Documents/GitHub/classification-service/Procfile",
+		"/C/Users/w84thesun/Downloads/Telegram Desktop/маркетинг.txt",
+		"/C/Users/w84thesun/Desktop/python-getting-started/gettingstarted/__init__.py",
+		"/C/Users/w84thesun/Desktop/app/helpers/app_helper.py",
+		"/C/Users/w84thesun/Downloads/Telegram Desktop/ПИСЬМА ПО БАЗЕ.txt",
+		"/C/Users/w84thesun/Downloads/Telegram Desktop/ПИСЬМА_ТЕМ_КТО_ХОЧЕТ_БЫТЬ_ТЕСТЕРОМ.txt",
+		"/C/Users/w84thesun/Downloads/update_db.py",
+		"/C/Users/w84thesun/Downloads/instagram_private_api-master/instagram_private_api/client.py",
+		"/C/Users/w84thesun/Downloads/script_copy_v_6_8_1881.txt",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/controllers/user_controller.py",
+		"/C/Users/w84thesun/Downloads/Telegram Desktop/script (2).txt",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/models/body.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/test/test_user_controller.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/test/__init__.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/models/user.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/models/base_model_.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server/test-requirements.txt",
+		"/C/Users/w84thesun/Downloads/python-flask-server/requirements.txt",
+		"/C/Users/w84thesun/Downloads/Novy_textovy_dokument.txt",
+		"/C/Users/w84thesun/Downloads/Telegram Desktop/script.txt",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/controllers/store_controller.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/controllers/pet_controller.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server/swagger_server/controllers/__init__.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server-generated(1)/python-flask-server/swagger_server/util.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server-generated(1)/python-flask-server/swagger_server/__main__.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server-generated(1)/python-flask-server/swagger_server/encoder.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server-generated(1)/python-flask-server/swagger_server/models/__init__.py",
+		"/C/Users/w84thesun/Downloads/python-flask-server-generated(1)/python-flask-server/swagger_server/__init__.py",
+		"/C/Python36/Lib/site-packages/instagram/oauth2.py",
+		"/C/Users/w84thesun/Downloads/export2/keystone_users_kir_1.html.txt",
+		"/C/Users/w84thesun/Downloads/exported(1)/keystone_users3.html",
+		"/C/Users/w84thesun/Downloads/exported(1)/keystone_users1.html",
+		"/C/Users/w84thesun/Downloads/exported(1)/keystone_users2.html",
+		"/C/Users/w84thesun/Downloads/exported(1)/keystone_users0.html",
+		"/C/Users/w84thesun/AppData/Local/Temp/Temp1_IM_Logs.zip/SummaryIMLog_20170-40200-1100_00003.txt",
+		"/C/Users/w84thesun/AppData/Local/Temp/Temp1_IM_Logs.zip/SummaryIMLog_20170-40200-1100_00002.txt",
+		"/C/Users/w84thesun/AppData/Local/Temp/Temp1_IM_Logs.zip/SummaryIMLog_20170-40200-1100_00001.txt",
+		"/C/Users/w84thesun/Desktop/test.py",
+		"/C/Users/w84thesun/Downloads/export2/keystone_users_vik_2.html.txt",
+		"/C/Users/w84thesun/Downloads/export2/keystone_users_kir_2.html.txt",
+		"/C/Users/w84thesun/Downloads/export2/keystone_users_vik_1.html.txt",
+		"/C/Users/w84thesun/Downloads/keystone_users.html",
+		"/C/Python36/Lib/site-packages/instagram/models.py",
+		"/C/Python36/Lib/site-packages/instagram/client.py",
+		"/C/Users/w84thesun/Downloads/exported/keystone_users3.html",
+		"/C/Users/w84thesun/Downloads/exported/keystone_users2.html",
+		"/C/Users/w84thesun/Downloads/exported/keystone_users4.html",
+		"/C/Users/w84thesun/Downloads/exported/keystone_users1.html",
+		"/C/Users/w84thesun/Downloads/exported/keystone_users0.html",
+		"/C/Users/w84thesun/AppData/Local/Temp/swagger.json",
+		"/C/Users/w84thesun/Downloads/banner.html",
+		"/C/Users/w84thesun/Downloads/170704213255_group_04ab2977_active.csv",
+		"/C/Users/w84thesun/Downloads/script.html",
+		"/C/Users/w84thesun/Desktop/instgram_finder/python-instagram/instagram/oauth2.py",
+		"/C/Users/w84thesun/Desktop/instgram_finder/python-instagram/tests.py",
+		"/C/Users/w84thesun/Desktop/instgram_finder/test.py",
+		"/C/Users/w84thesun/Desktop/list.txt",
+		"/C/Users/w84thesun/Downloads/script.txt",
+		"/C/Users/w84thesun/Downloads/html.txt",
+		"/C/Users/w84thesun/AppData/Local/Temp/14975_May17.txt",
+		"/C/Users/w84thesun/Downloads/pooptest.txt",
+		"/C/Users/w84thesun/Downloads/newocr.com-20170507153715.txt",
+		"/C/Users/w84thesun/Documents/fantasia.key",
+		"/C/Users/w84thesun/Desktop/fbk/закупки стелла.txt",
+		"/C/Users/w84thesun/Documents/pub.key",
+		"/E/DS.SolidWorks.2017.SP2.Premium-SSQ/_SolidSQUAD_/readme.txt",
+		"/C/SolidWorks.2017.Activator-SSQ/SerialNumbers.ini",
+		"/C/Users/w84thesun/AppData/Roaming/SOLIDWORKS/Installation Logs/2017 SP2.0/SummaryIMLog_20170-40200-1100_00004.txt",
+		"/E/DS.SolidWorks.2017.SP2.Premium-SSQ/z_checksums.sfv",
+		"/E/SW2015_SP4.0_Full_SSQ/_SolidSQUAD_/readme.txt",
+		"/C/Users/w84thesun/Desktop/ProTipsOfTheDay.txt",
+		"/C/Users/w84thesun/Documents/StarCraft II/Accounts/132098803/Hotkeys/Hotkeys optimized.SC2Hotkeys",
+		"/C/Users/w84thesun/Documents/leap/LeapCollectData/LeapCollectData/DataBlock.cs",
+		"/C/Users/w84thesun/Documents/leap/LeapCollectData/LeapCollectData/Properties/AssemblyInfo.cs",
+		"/C/samples/UserInterface/ListView/Basics/BasicFormsListView/Droid/BasicFormsListView.Droid.csproj",
+		"/C/samples/Navigation/Pop-ups/WorkingWithPopups/MainPage.xaml",
+		"/C/samples/Navigation/Pop-ups/WorkingWithPopups/ActionSheetPage.xaml",
+		"/C/Users/w84thesun/Documents/leap_files/plot.py",
+		"/C/Users/w84thesun/Documents/leap_files/madgwick/madgwickahrs.py",
+		"/C/Users/w84thesun/Documents/leap_files/madgwick/quaternion.py",
+		"/C/Users/w84thesun/Documents/leap_files/bin2",
+		"/F/temp/porno/ThaiGirlsWild.com Picture Sets/Photos/048 Joy & Pui/Joy & Pui.txt",
+		"/C/Users/w84thesun/Documents/leap_old/LeapDrift/Python/calibration.py",
+		"/C/Users/w84thesun/Desktop/fbk/отчет АД.txt",
+		"/C/Users/w84thesun/Documents/Arduino/libraries/GY_85/GY_85.cpp",
+		"/C/Users/w84thesun/Documents/Arduino/libraries/GY_85/GY_85.h",
+		"/C/Users/w84thesun/Downloads/bof2_task/!info.txt",
+		"/C/Users/w84thesun/Downloads/backflipENG.txt",
+		"/C/Users/w84thesun/Downloads/backflip.txt",
+		"/C/Users/w84thesun/Downloads/halloworld.txt",
+		"/C/Users/w84thesun/Dropbox/LEAP/test.txt",
+		"/C/Users/w84thesun/Documents/leap_files/convert_logs.py",
+		"/C/Users/w84thesun/Documents/leap_files/videolog/01.log",
+		"/C/Users/w84thesun/Documents/leap_files/dns_records.txt",
+		"/C/Users/w84thesun/Desktop/site/send.php",
+		"/C/Users/w84thesun/Desktop/site/index.html",
+		"/C/Users/w84thesun/Desktop/7um6urth.plp7.ru.htm",
+		"/C/Users/w84thesun/Documents/leap_old/LeapDrift/Python/data_sources.py",
+		"/C/Users/w84thesun/Documents/leap_old/LeapDrift/Python/generate_mock_data.py",
+		"/C/Users/w84thesun/Documents/leap_old/LeapDrift/Python/leap_serv.py",
+		"/C/Users/w84thesun/Desktop/7um6urth.plp7.ru.html"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"predict",
+			"print",
+			"word_dictionary",
+			"max_len",
+			"(\"\")\n",
+			"word_dictionary",
+			"      - \"application/xml\"",
+			".*t(d|h) width.*",
+			".*td width.*",
+			"img",
+			"277969987.24a5f12.9463b4e80713463f85212233a90e7109",
+			"SEARCH_ACCEPT_PARAMETERS",
+			"())\n",
+			"83",
+			"93",
+			"81",
+			"97",
+			"070658927ACB46253E23B35DA884CFADB240ED4A3157D7E4FB668397DF5943BC",
+			"calibrate_magnetometer",
+			"<form",
+			"form",
+			"noscript",
+			"Singl",
+			"(?!>)<",
+			"(?:>)<",
+			"post",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"\\s",
+			"([A-F0-9]{2})",
+			"    \n",
+			"FIX",
+			"fix_max",
+			"fix max",
+			"fix_max",
+			"PARSE_RMC",
+			", ",
+			"0X",
+			"^\\+",
+			"^\\-.*",
+			"def plot",
+			"split",
+			"p1:",
+			"^\\+",
+			"^\\-.*",
+			" ([A-F0-9]{2})",
+			" ",
+			"crc ",
+			" ",
+			"\\s",
+			"0E",
+			"ISR(",
+			"cli",
+			"write",
+			"write ",
+			"write",
+			"time",
+			"AngleBetween",
+			"mindriftangle",
+			"hdop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"words_dictionary",
+			"prompt_len",
+			"words_dictionary",
+			"",
+			"img height=\"150px\" width=\"150px\"",
+			"\\n<",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x\\1",
+			"",
+			"\\\\x",
+			"\\x",
+			"",
+			"\\n\\tp1:",
+			"\\np1:",
+			"",
+			"0x\\1, ",
+			"0x ",
+			"ushort",
+			"\\\\x",
+			"\\x"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 174.0
+	},
+	"output.exec":
+	{
+		"height": 413.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 162.0
+	},
+	"output.stino_panel":
+	{
+		"height": 215.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "github_repo_analysis.sublime-project",
+	"replace":
+	{
+		"height": 116.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
